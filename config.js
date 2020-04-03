@@ -1,10 +1,10 @@
-exports.TOKEN = process.env.TOKEN;
+exports.TOKEN = process.env.TOKEN; //discord
 
-exports.MONGO = process.env.MONGO;
+exports.MONGO = process.env.MONGO; //url mongo
 
-exports.DB = process.env.DB;
+exports.DB = process.env.DB; //nombre db mongo
 
-exports.DEV = process.env.DEV;
+exports.DEV = process.env.DEV; //id usuario mongo
 
 exports.DEV1 = process.env.DEV1;
 
